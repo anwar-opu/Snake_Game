@@ -14,11 +14,6 @@ This is a classic Snake Game built in Python using the `turtle` module. The play
 - **Python 3.x**
 - **turtle** library for graphics.
 
-## How to Run the Game
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/anwar-opu/Snake_Game.git ```
 ### Game Controls
 - Up Arrow: Move up
 - Down Arrow: Move down
